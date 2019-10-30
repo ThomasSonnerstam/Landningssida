@@ -84,14 +84,13 @@ span {
         margin-bottom: 0;
     }
 
-    .down-arrow {
+    .downArrow {
         width: 65px;
         height: 65px;
         align-self: center;
         margin-bottom: 30px;
     }
 
-    .history {}
 
     .history-small {
         width: 150%;
